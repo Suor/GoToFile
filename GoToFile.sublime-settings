@@ -1,0 +1,5 @@
+{
+    "fallback_command": "goto_definition",
+    "fallback_args": {},
+    "excluded_dirs": [".git", "node_modules", "__pycache__", ".venv", ".tox", ".mypy_cache", ".eggs"]
+}

@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "GoToFile: Open File at Cursor",
+        "command": "goto_file"
+    }
+]
