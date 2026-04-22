@@ -1,0 +1,13 @@
+1.0.2
+
+- Add CHANGELOG.
+
+1.0.1
+
+- Rename settings file to BetterGoToFile.sublime-settings.
+- Add settings entries to command palette and Package Settings menu.
+
+1.0.0
+
+- Initial Package Control release as Better Go To File.
+
