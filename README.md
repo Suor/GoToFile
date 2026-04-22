@@ -14,6 +14,19 @@ path/to/file.py:42
 '/absolute/path/to/file.py'
 ```
 
+## Shortcut
+
+Add a key binding to your user keymap:
+
+```js
+[
+    {"keys": ["ctrl+enter"], "command": "goto_file"}
+]
+```
+
+Use whatever key you prefer. The command is also available from the command
+palette as "GoToFile: Open File at Cursor".
+
 If no path is found or nothing matches, the plugin falls back to Sublime's
 `goto_definition` command by default. You can change that in
 `GoToFile.sublime-settings`:
@@ -28,4 +41,3 @@ If no path is found or nothing matches, the plugin falls back to Sublime's
 
 Project files are cached for a few minutes to avoid walking the same folders on
 every command run.
-
