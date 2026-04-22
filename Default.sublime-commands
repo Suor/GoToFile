@@ -1,6 +1,6 @@
 [
     {
-        "caption": "GoToFile: Open File at Cursor",
+        "caption": "Go To File: Open File at Cursor",
         "command": "goto_file"
     }
 ]

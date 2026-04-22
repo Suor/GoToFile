@@ -1,4 +1,4 @@
-# Go To File
+# Better Go To File
 
 Open file path under cursor in Sublime Text.
 
@@ -25,7 +25,7 @@ Add a key binding to your user keymap:
 ```
 
 Use whatever key you prefer. The command is also available from the command
-palette as "GoToFile: Open File at Cursor".
+palette as "Go To File: Open File at Cursor".
 
 If no path is found or nothing matches, the plugin falls back to Sublime's
 `goto_definition` command by default. You can change that in
