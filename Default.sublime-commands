@@ -2,5 +2,13 @@
     {
         "caption": "Go To File: Open File at Cursor",
         "command": "goto_file"
+    },
+    {
+        "caption": "Go To File: Settings",
+        "command": "edit_settings",
+        "args": {
+            "base_file": "${packages}/BetterGoToFile/BetterGoToFile.sublime-settings",
+            "user_file": "${packages}/User/BetterGoToFile.sublime-settings"
+        }
     }
 ]

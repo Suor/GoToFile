@@ -62,7 +62,7 @@ def _extract_path_at_cursor(view):
 
 
 def _settings():
-    return sublime.load_settings('GoToFile.sublime-settings')
+    return sublime.load_settings('BetterGoToFile.sublime-settings')
 
 
 def _resolve(path):

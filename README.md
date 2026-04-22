@@ -29,7 +29,7 @@ palette as "Go To File: Open File at Cursor".
 
 If no path is found or nothing matches, the plugin falls back to Sublime's
 `goto_definition` command by default. You can change that in
-`GoToFile.sublime-settings`:
+`BetterGoToFile.sublime-settings`:
 
 ```js
 {
