@@ -1,6 +1,7 @@
 1.0.3
 
 - Use BetterGoToFile consistently in package captions and documentation.
+- Add default template to settings commands.
 - Add BSD 2-Clause license.
 
 1.0.2

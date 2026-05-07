@@ -8,7 +8,8 @@
         "command": "edit_settings",
         "args": {
             "base_file": "${packages}/BetterGoToFile/BetterGoToFile.sublime-settings",
-            "user_file": "${packages}/User/BetterGoToFile.sublime-settings"
+            "user_file": "${packages}/User/BetterGoToFile.sublime-settings",
+            "default": "{\n    $0\n}\n"
         }
     }
 ]
