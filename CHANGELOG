@@ -1,3 +1,8 @@
+1.0.3
+
+- Use BetterGoToFile consistently in package captions and documentation.
+- Add BSD 2-Clause license.
+
 1.0.2
 
 - Add CHANGELOG.
@@ -9,5 +14,4 @@
 
 1.0.0
 
-- Initial Package Control release as Better Go To File.
-
+- Initial Package Control release as BetterGoToFile.
