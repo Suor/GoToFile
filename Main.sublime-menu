@@ -8,7 +8,7 @@
                 "id": "package-settings",
                 "children": [
                     {
-                        "caption": "Go To File",
+                        "caption": "BetterGoToFile",
                         "children": [
                             {
                                 "caption": "Settings",
